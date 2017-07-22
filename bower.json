@@ -1,5 +1,5 @@
 {
-  "name": "headroom.js",
+  "name": "headroom",
   "main": [
     "dist/headroom.js"
   ],
